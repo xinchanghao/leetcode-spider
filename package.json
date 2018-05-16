@@ -1,6 +1,6 @@
 {
   "name": "leetcode-spider",
-  "version": "0.2.22",
+  "version": "1.0.2",
   "description": "Crawler for your leetcode accepted solutions.Multi-language supported.Auto generate README.md .",
   "main": "./lib/entry.js",
   "bin": {
@@ -33,6 +33,7 @@
     "co-parallel": "^1.0.0",
     "debug": "^2.3.3",
     "log4js": "^1.0.1",
+    "mustache": "^2.3.0",
     "request": "2.79.0",
     "thenify": "^3.2.1",
     "thenify-all": "^1.6.0",
